@@ -1,0 +1,4 @@
+﻿  Subscriber.cpp
+D:\Industrijski komunikac protokoli\IKP_PubSub\Common\Queue.h(109): warning C4715: 'DequeueMessageQueue': not all control paths return a value
+D:\Industrijski komunikac protokoli\IKP_PubSub\Common\Queue.h(98): warning C4715: 'Dequeue': not all control paths return a value
+  Subscriber.vcxproj -> D:\Industrijski komunikac protokoli\IKP_PubSub\Debug\Subscriber.exe
